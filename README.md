@@ -1,0 +1,2 @@
+# Digit-rec
+Sayı tanımlama
